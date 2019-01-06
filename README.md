@@ -46,5 +46,5 @@ Creating docker-lnmp_nginx_1     ... done
 
 ## 访问 Docker GUI 管理工具
 
-- http://127.0.0.1:9000
+- http://test1.jaujik.com:9000
 
