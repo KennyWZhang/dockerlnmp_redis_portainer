@@ -1,0 +1,76 @@
+2019/01/05 12:12:28 [warn] 1#1: conflicting server name "127.0.0.1" on 0.0.0.0:443, ignored
+2019/01/05 12:12:28 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:443, ignored
+2019/01/05 12:12:28 [warn] 1#1: conflicting server name "www.demo.com" on 0.0.0.0:443, ignored
+2019/01/05 21:46:16 [warn] 1#1: conflicting server name "127.0.0.1" on 0.0.0.0:443, ignored
+2019/01/05 21:46:16 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:443, ignored
+2019/01/05 21:46:16 [warn] 1#1: conflicting server name "www.demo.com" on 0.0.0.0:443, ignored
+2019/01/05 21:50:39 [warn] 1#1: conflicting server name "127.0.0.1" on 0.0.0.0:443, ignored
+2019/01/05 21:50:39 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:443, ignored
+2019/01/05 21:50:39 [warn] 1#1: conflicting server name "www.demo.com" on 0.0.0.0:443, ignored
+2019/01/05 21:50:53 [error] 6#6: *1 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 139.170.126.75, server: test1.jaujik.com, request: "GET /web HTTP/1.1", upstream: "fastcgi://172.100.0.3:9000", host: "test1.jaujik.com"
+2019/01/05 21:51:01 [error] 6#6: *1 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 139.170.126.75, server: test1.jaujik.com, request: "GET /web/index.php HTTP/1.1", upstream: "fastcgi://172.100.0.3:9000", host: "test1.jaujik.com"
+2019/01/05 21:51:14 [warn] 1#1: conflicting server name "127.0.0.1" on 0.0.0.0:443, ignored
+2019/01/05 21:51:14 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:443, ignored
+2019/01/05 21:51:14 [warn] 1#1: conflicting server name "www.demo.com" on 0.0.0.0:443, ignored
+2019/01/05 21:51:50 [warn] 1#1: conflicting server name "127.0.0.1" on 0.0.0.0:443, ignored
+2019/01/05 21:51:50 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:443, ignored
+2019/01/05 21:51:50 [warn] 1#1: conflicting server name "www.demo.com" on 0.0.0.0:443, ignored
+2019/01/05 21:52:52 [warn] 1#1: conflicting server name "127.0.0.1" on 0.0.0.0:443, ignored
+2019/01/05 21:52:52 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:443, ignored
+2019/01/05 21:52:52 [warn] 1#1: conflicting server name "www.demo.com" on 0.0.0.0:443, ignored
+2019/01/05 22:01:55 [emerg] 1#1: "location" directive is not allowed here in /etc/nginx/nginx.conf:22
+2019/01/05 22:02:55 [warn] 1#1: conflicting server name "127.0.0.1" on 0.0.0.0:443, ignored
+2019/01/05 22:02:55 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:443, ignored
+2019/01/05 22:02:55 [warn] 1#1: conflicting server name "www.demo.com" on 0.0.0.0:443, ignored
+2019/01/05 22:04:10 [warn] 1#1: conflicting server name "127.0.0.1" on 0.0.0.0:443, ignored
+2019/01/05 22:04:10 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:443, ignored
+2019/01/05 22:04:10 [warn] 1#1: conflicting server name "www.demo.com" on 0.0.0.0:443, ignored
+2019/01/05 22:18:18 [warn] 1#1: conflicting server name "127.0.0.1" on 0.0.0.0:443, ignored
+2019/01/05 22:18:18 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:443, ignored
+2019/01/05 22:18:18 [warn] 1#1: conflicting server name "www.demo.com" on 0.0.0.0:443, ignored
+2019/01/05 22:25:41 [warn] 1#1: conflicting server name "127.0.0.1" on 0.0.0.0:443, ignored
+2019/01/05 22:25:41 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:443, ignored
+2019/01/05 22:25:41 [warn] 1#1: conflicting server name "www.demo.com" on 0.0.0.0:443, ignored
+2019/01/05 22:33:09 [warn] 1#1: conflicting server name "127.0.0.1" on 0.0.0.0:443, ignored
+2019/01/05 22:33:09 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:443, ignored
+2019/01/05 22:33:09 [warn] 1#1: conflicting server name "www.demo.com" on 0.0.0.0:443, ignored
+2019/01/05 22:39:55 [emerg] 1#1: "location" directive is not allowed here in /etc/nginx/nginx.conf:31
+2019/01/05 22:42:11 [warn] 1#1: conflicting server name "127.0.0.1" on 0.0.0.0:443, ignored
+2019/01/05 22:42:11 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:443, ignored
+2019/01/05 22:42:11 [warn] 1#1: conflicting server name "www.demo.com" on 0.0.0.0:443, ignored
+2019/01/05 23:07:32 [warn] 1#1: conflicting server name "127.0.0.1" on 0.0.0.0:443, ignored
+2019/01/05 23:07:32 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:443, ignored
+2019/01/05 23:07:32 [warn] 1#1: conflicting server name "www.demo.com" on 0.0.0.0:443, ignored
+2019/01/05 23:10:34 [warn] 1#1: conflicting server name "127.0.0.1" on 0.0.0.0:443, ignored
+2019/01/05 23:10:34 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:443, ignored
+2019/01/05 23:10:34 [warn] 1#1: conflicting server name "www.demo.com" on 0.0.0.0:443, ignored
+2019/01/05 23:16:33 [warn] 1#1: conflicting server name "127.0.0.1" on 0.0.0.0:443, ignored
+2019/01/05 23:16:33 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:443, ignored
+2019/01/05 23:16:33 [warn] 1#1: conflicting server name "www.demo.com" on 0.0.0.0:443, ignored
+2019/01/05 23:18:28 [warn] 1#1: conflicting server name "127.0.0.1" on 0.0.0.0:443, ignored
+2019/01/05 23:18:28 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:443, ignored
+2019/01/05 23:18:28 [warn] 1#1: conflicting server name "www.demo.com" on 0.0.0.0:443, ignored
+2019/01/05 23:19:21 [error] 6#6: *3 directory index of "/var/www/html/basic/web/" is forbidden, client: 139.170.126.75, server: test1.jaujik.com, request: "GET / HTTP/1.1", host: "test1.jaujik.com"
+2019/01/05 23:19:24 [error] 6#6: *3 directory index of "/var/www/html/basic/web/" is forbidden, client: 139.170.126.75, server: test1.jaujik.com, request: "GET / HTTP/1.1", host: "test1.jaujik.com"
+2019/01/05 23:19:44 [error] 6#6: *13 directory index of "/var/www/html/basic/web/" is forbidden, client: 139.170.126.75, server: test1.jaujik.com, request: "GET / HTTP/1.1", host: "test1.jaujik.com"
+2019/01/05 23:23:01 [error] 6#6: *26 directory index of "/var/www/html/basic/web/" is forbidden, client: 95.37.94.137, server: test1.jaujik.com, request: "GET / HTTP/1.1", host: "45.32.158.249"
+2019/01/05 23:23:01 [error] 6#6: *29 "/var/www/html/basic/web/HNAP1/index.html" is not found (2: No such file or directory), client: 95.37.94.137, server: test1.jaujik.com, request: "GET /HNAP1/ HTTP/1.1", host: "45.32.158.249", referrer: "http://45.32.158.249/"
+2019/01/05 23:34:35 [warn] 1#1: conflicting server name "127.0.0.1" on 0.0.0.0:443, ignored
+2019/01/05 23:34:35 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:443, ignored
+2019/01/05 23:34:35 [warn] 1#1: conflicting server name "www.demo.com" on 0.0.0.0:443, ignored
+2019/01/05 23:34:35 [emerg] 1#1: open() "/path/to/basic/log/access.log" failed (2: No such file or directory)
+2019/01/05 23:37:07 [emerg] 1#1: invalid variable name in /etc/nginx/nginx.conf:32
+2019/01/05 23:37:48 [emerg] 1#1: invalid variable name in /etc/nginx/nginx.conf:32
+2019/01/05 23:39:15 [emerg] 1#1: invalid variable name in /etc/nginx/nginx.conf:32
+2019/01/05 23:43:31 [emerg] 1#1: invalid variable name in /etc/nginx/nginx.conf:32
+2019/01/06 11:13:45 [emerg] 1#1: invalid variable name in /etc/nginx/nginx.conf:32
+2019/01/06 11:18:53 [warn] 1#1: conflicting server name "127.0.0.1" on 0.0.0.0:443, ignored
+2019/01/06 11:18:53 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:443, ignored
+2019/01/06 11:18:53 [warn] 1#1: conflicting server name "www.demo.com" on 0.0.0.0:443, ignored
+2019/01/06 11:18:53 [emerg] 1#1: open() "/var/www/html/basic/runtime/log/access.log" failed (2: No such file or directory)
+2019/01/06 11:25:58 [warn] 1#1: conflicting server name "127.0.0.1" on 0.0.0.0:443, ignored
+2019/01/06 11:25:58 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:443, ignored
+2019/01/06 11:25:58 [warn] 1#1: conflicting server name "www.demo.com" on 0.0.0.0:443, ignored
+2019/01/06 11:48:06 [warn] 1#1: conflicting server name "127.0.0.1" on 0.0.0.0:443, ignored
+2019/01/06 11:48:06 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:443, ignored
+2019/01/06 11:48:06 [warn] 1#1: conflicting server name "www.demo.com" on 0.0.0.0:443, ignored
