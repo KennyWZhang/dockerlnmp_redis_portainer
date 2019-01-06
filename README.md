@@ -15,13 +15,13 @@ Docker 使用客户端-服务器 (C/S) 架构模式，使用远程API来管理�
 ### 第二步，获取项目代码
 
 ```
-$ git clone https://github.com/helingfeng/Docker-LNMP.git
+$ git clone https://github.com/KennyWZhang/dockerlnmp_redis_portainer.git
 ```
     
 ### 第三步，运行容器编排
 
 ```
-$ cd Docker-LNMP   // 进入项目根目录
+$ cd dockerlnmp_redis_portainer   // 进入项目根目录
 $ docker-compose up -d   // 容器编排命令
 ```
 
@@ -40,17 +40,11 @@ Creating docker-lnmp_nginx_1     ... done
 
 ### 第四步，测试服务访问
 
-- http://127.0.0.1/ （可配置强制跳转 https）
-- https://127.0.0.1/  （由于证书不安全，所以需要点击继续访问）
+- http://test1.jaujik.com/ （可配置强制跳转 https）
+- https://test1.jaujik.com/  （由于证书不安全，所以需要点击继续访问）
 
 
 ## 访问 Docker GUI 管理工具
 
 - http://127.0.0.1:9000
-
-## Google 访问（代理翻墙）
-
-- http://127.0.0.1:8080
-
-![google](google.png)
 
